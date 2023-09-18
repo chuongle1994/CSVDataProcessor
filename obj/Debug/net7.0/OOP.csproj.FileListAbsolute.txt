@@ -1,0 +1,15 @@
+/Users/chuongle/Downloads/OOP/bin/Debug/net7.0/OOP
+/Users/chuongle/Downloads/OOP/bin/Debug/net7.0/OOP.deps.json
+/Users/chuongle/Downloads/OOP/bin/Debug/net7.0/OOP.runtimeconfig.json
+/Users/chuongle/Downloads/OOP/bin/Debug/net7.0/OOP.dll
+/Users/chuongle/Downloads/OOP/bin/Debug/net7.0/OOP.pdb
+/Users/chuongle/Downloads/OOP/obj/Debug/net7.0/OOP.csproj.AssemblyReference.cache
+/Users/chuongle/Downloads/OOP/obj/Debug/net7.0/OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chuongle/Downloads/OOP/obj/Debug/net7.0/OOP.AssemblyInfoInputs.cache
+/Users/chuongle/Downloads/OOP/obj/Debug/net7.0/OOP.AssemblyInfo.cs
+/Users/chuongle/Downloads/OOP/obj/Debug/net7.0/OOP.csproj.CoreCompileInputs.cache
+/Users/chuongle/Downloads/OOP/obj/Debug/net7.0/OOP.dll
+/Users/chuongle/Downloads/OOP/obj/Debug/net7.0/refint/OOP.dll
+/Users/chuongle/Downloads/OOP/obj/Debug/net7.0/OOP.pdb
+/Users/chuongle/Downloads/OOP/obj/Debug/net7.0/OOP.genruntimeconfig.cache
+/Users/chuongle/Downloads/OOP/obj/Debug/net7.0/ref/OOP.dll
